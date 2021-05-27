@@ -1,0 +1,50 @@
+id,name,country,province,province_code,postcode_area,type,map_reference,latitude,longitude,census_division,area_code,time_zone
+25249,Tabaret,Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½miscamingue,Quebec,QC,J0Z,Locality,031L14,46.93778,-79.24056,Tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+25250,Taber,,Alberta,AB,T1G,Town,082H16,49.78475,-112.15097,Division No.  2,587,America/Edmonton
+25251,Table Bay,,Newfoundland and Labrador,NL,A0K,Locality,013H10,53.69456,-56.70604,Division No. 10,709,America/Goose_Bay
+25252,Table Head,Cape Breton,Nova Scotia,NS,B1A,Locality,011J04,46.20978,-59.95480,Cape Breton,902,America/Glace_Bay
+25253,Tableland,,Saskatchewan,SK,S4A,Locality,062E03,49.15003,-103.18380,Division No.  1,306,America/Regina
+25254,Tabor,Fraser-Fort George,British Columbia,BC,V2N,Locality,093G15,53.80000,-122.71667,Fraser-Fort George,250,America/Vancouver
+25255,Tabor,Algoma,Ontario,ON,P0S,Locality,041N15,47.79250,-84.51444,Algoma,705,America/Toronto
+25256,Tabusintac,Northumberland,New Brunswick,NB,E9H,Locality,021P06,47.32722,-65.01097,Northumberland,506,America/Moncton
+25257,Tachï¿½ï¿½ï¿½ï¿½ï¿½ï¿½,Kenora,Ontario,ON,P0V,Locality,052F09,49.58477,-92.19071,Kenora,807,
+25258,Tacheeda,Fraser-Fort George,British Columbia,BC,V0J,Locality,093J10,54.68333,-122.60000,Fraser-Fort George,250,America/Vancouver
+25259,Tachie,Bulkley-Nechako,British Columbia,BC,V0J,Locality,093K10,54.65000,-124.75000,Bulkley-Nechako,250,America/Vancouver
+25260,Tacks Beach,,Newfoundland and Labrador,NL,A0B,Locality,001M09,47.57778,-54.21222,Division No.  2,709,America/St_Johns
+25261,Tadanac,Kootenay Boundary,British Columbia,BC,V1R,Locality,082F04,49.11667,-117.71667,Kootenay Boundary,250,America/Vancouver
+25262,Tadmore,,Saskatchewan,SK,S0A,Hamlet,062M16,51.83417,-102.47987,Division No.  9,306,America/Regina
+25263,Tadoule Lake,,Manitoba,MB,R0B,Locality,064J09,58.71194,-98.48028,Division No. 23,204,America/Winnipeg
+25264,Tadoussac,La Haute-Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½te-Nord,Quebec,QC,G0T,Town,022C04,48.15000,-69.71667,La Haute-Cï¿½ï¿½ï¿½ï¿½ï¿
+25265,Taft,Columbia-Shuswap,British Columbia,BC,V0E,Locality,082L15,50.98333,-118.65000,Columbia-Shuswap,250,America/Vancouver
+25266,Tafton,Simcoe,Ontario,ON,L3V,Locality,031D11,44.63639,-79.41722,Simcoe,705,America/Toronto
+25267,Taggart,Kenora,Ontario,ON,P0V,Locality,052K01,50.08558,-92.49533,Kenora,807,America/Winnipeg
+25268,Taghum,Central Kootenay,British Columbia,BC,V1L,Locality,082F06,49.48333,-117.38333,Central Kootenay,250,America/Vancouver
+25269,Tagish,,Yukon,YT,Y0B,Locality,105D08,60.31484,-134.27151,Yukon,250,America/Whitehorse
+25270,Tahltan,Kitimat-Stikine,British Columbia,BC,V0C,Locality,104J02,58.01667,-131.00000,Kitimat-Stikine,250,America/Vancouver
+25271,Tahsis,Strathcona,British Columbia,BC,V0P,Village,092E15,49.91639,-126.66444,Strathcona,250,America/Vancouver
+25272,Taillon,Lac-Saint-Jean-Est,Quebec,QC,G0W,Locality,022D12,48.66278,-71.82500,Lac-Saint-Jean-Est,581,America/Montreal
+25273,Taits Beach,Northumberland,Ontario,ON,K0L,Locality,031D01,44.10556,-78.27778,Northumberland,289,America/Toronto
+25274,Takhini,,Yukon,YT,Y1A,Locality,105D14,60.85556,-135.46056,Yukon,250,America/Whitehorse
+25275,Takhini Hotspring,,Yukon,YT,Y1A,Locality,105D14,60.87879,-135.35921,Yukon,250,America/Whitehorse
+25276,Takipy,,Manitoba,MB,R8A,Locality,063N07,55.41361,-100.95944,Division No. 21,204,America/Winnipeg
+25277,Takla Landing,Bulkley-Nechako,British Columbia,BC,V0J,Locality,093N05,55.48333,-125.96667,Bulkley-Nechako,250,America/Vancouver
+25278,Tako,,Saskatchewan,SK,S0K,Locality,073C06,52.40007,-109.01739,Division No. 13,306,America/Regina
+25279,Taku,Stikine,British Columbia,BC,V0C,Locality,104N12,59.63333,-133.85000,Stikine,250,America/Vancouver
+25280,Takysie Lake,Bulkley-Nechako,British Columbia,BC,V0J,Locality,093F13,53.88333,-125.86667,Bulkley-Nechako,250,America/Vancouver
+25281,Talbot,,Alberta,AB,T0C,Locality,073D03,52.23028,-111.26556,Division No.  7,587,America/Edmonton
+25282,Talbot,Simcoe,Ontario,ON,L0K,Locality,031D11,44.50847,-79.12063,Simcoe,705,America/Toronto
+25283,Talbot,Portneuf,Quebec,QC,G0A,Locality,031P01,47.08278,-72.24472,Portneuf,581,America/Montreal
+25284,Talbot,Lac-Saint-Jean-Est,Quebec,QC,G8B,Locality,022D12,48.57556,-71.62444,Lac-Saint-Jean-Est,581,America/Montreal
+25285,Talbotville Royal,Elgin,Ontario,ON,N5P,Locality,040I14,42.80323,-81.25250,Elgin,519,America/Toronto
+25286,Talcville,,Newfoundland and Labrador,NL,A1W,Locality,001N10,47.51111,-52.96167,Division No.  1,709,America/St_Johns
+25287,Tallheo,Central Coast,British Columbia,BC,V0T,Locality,093D07,52.38333,-126.83333,Central Coast,250,America/Vancouver
+25288,Tallman,,Saskatchewan,SK,S0J,Locality,073B15,52.80005,-106.96726,Division No. 16,306,America/Regina
+25289,Tall Pines,,Saskatchewan,SK,S0E,Locality,063D07,52.34999,-102.65048,Division No. 14,306,America/Regina
+25290,Talmage,,Saskatchewan,SK,S0C,Locality,062E13,49.78336,-103.66721,Division No.  2,306,America/Regina
+25291,Talon,Le Haut-Richelieu,Quebec,QC,J2W,Locality,031H06,45.35583,-73.27028,Le Haut-Richelieu,450,America/Montreal
+25292,Talon,Gatineau,Quebec,QC,J8T,Locality,031G05,45.47833,-75.70139,Gatineau,819,America/Montreal
+25293,Taloyoak,Kitikmeot,Nunavut,NU,X0B,Hamlet,057C10,69.53611,-93.52083,Kitikmeot,204,America/Cambridge_Bay
+25294,Tamarac Estates,Peel,Ontario,ON,L7K,Locality,040P16,43.93444,-80.00167,Peel,289,America/Toronto
+25295,Tamarack,Peace River,British Columbia,BC,V0C,Locality,094H11,57.65000,-121.16667,Peace River,250,America/Dawson_Creek
+25296,Tamarisk,Squamish-Lillooet,British Columbia,BC,V0N,Locality,092J03,50.10000,-123.01667,Squamish-Lillooet,604,America/Vancouver
+25297,Tam O'Shanter,Toronto,Ontario,ON,M1T,Locality,030M14,43.77722,-79.29750,Toronto,416,America/Toronto
